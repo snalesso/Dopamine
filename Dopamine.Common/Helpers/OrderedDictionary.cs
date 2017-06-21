@@ -267,7 +267,7 @@ namespace Dopamine.Common.Helpers
         }
 
         /// <summary>
-        /// Copy the elements of the dictionary to an array, starting at at the given index.
+        /// Copy the elements of the dictionary to an array, starting at the given index.
         /// </summary>
         public void CopyTo(KeyValuePair<TKey, TValue>[] array, int index)
         {
